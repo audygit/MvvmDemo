@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoctalkTask</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+</resources>
